@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1.8
+=======
+
+>>>>>>> af4d4b9 (Add or update loader updater)
